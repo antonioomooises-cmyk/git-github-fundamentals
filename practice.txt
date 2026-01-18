@@ -1,1 +1,2 @@
 This is my first practice file to learn Git and GitHub.
+Adding a second line to practice Git commits.
